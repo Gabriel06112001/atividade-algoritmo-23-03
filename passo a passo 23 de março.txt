@@ -1,0 +1,10 @@
+1-inicio
+2-Solicitar com o nome do funcionário
+3-Solicitar a idade do funcionário
+4-Solicitar a quantidade de filhos
+5-Solicitar a quantos anos o funcionário trabalha na empresa
+6-Calcular se o funcionário tem direito ao plano de aposentadoria
+7-Calcular se o funcionário tem direito ao auxilio familia
+8-Calcular se o funcionário tem direito ao abono Salárial
+9-Calcular se o funcionário que tem o salário maior que 4300 possui direito ao abono salarial
+10-fim
